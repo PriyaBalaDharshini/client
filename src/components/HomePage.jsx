@@ -2,8 +2,8 @@ import React from 'react'
 
 const HomePage = () => {
     return (
-        <div className="container">
-            <div className="wrapper text-center mt-[100px]">
+        <div className="container mb-16">
+            <div className="wrapper text-center mt-[100px] flex flex-col items-center justify-center ">
                 <p className='text-blue-400 font-semibold text-xl mb-[50px]'>WHY CHOOSE US</p>
                 <h1 className='text-black mb-[100px] text-5xl font-bold'>Reason to Choose Merida</h1>
                 <div className="items">
